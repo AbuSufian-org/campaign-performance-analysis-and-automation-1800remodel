@@ -4,7 +4,7 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 ---
 
-<img width="667" alt="Image" src="https://github.com/user-attachments/assets/cc0b9bf5-4956-46ae-b4f5-4caae3a3df15" />
+<img width="667" alt="Image" src="https://github.com/user-attachments/assets/cc0b9bf5-4956-46ae-b4f5-4caae3a3df15" />  <img width="669" alt="Image" src="https://github.com/user-attachments/assets/02b40d61-4e3f-461f-ab34-9b564eea261f" />
 
 [Live Dashboard (View Only)](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
 
