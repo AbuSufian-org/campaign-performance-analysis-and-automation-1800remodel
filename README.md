@@ -66,12 +66,12 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 ### Power BI Dashboard Features
 
-- ✅ Total Gross Profit by Campaign (bar chart)
-- ✅ Success vs Error Rate comparison (bubble chart)
-- ✅ Monthly Trend of Profit, Acceptance, Ping Success (line chart)
-- ✅ Top 5 vs Bottom 5 Campaign Insights
-- ✅ Profit vs Conversion comparison
-- ✅ Cards for Key Metrics: Total Leads, Gross Profit, Highest Month
+- Total Gross Profit by Campaign (bar chart)
+- Success vs Error Rate comparison (bubble chart)
+- Monthly Trend of Profit, Acceptance, Ping Success (line chart)
+- Top 5 vs Bottom 5 Campaign Insights
+- Profit vs Conversion comparison
+- Cards for Key Metrics: Total Leads, Gross Profit, Highest Month
 
 _Sample Visuals_:
 - [x] Top 5 Campaign Profit
@@ -94,35 +94,38 @@ _Sample Visuals_:
 
 ## Recommendations & Business Actions
 
-**Boost Roofing Campaign:**
+-**Boost Roofing Campaign:**
 Highest profit ($11.7K) despite low conversion → Scale budget & improve targeting.
 
-**Pause or Optimize Low Performers:**
+-**Pause or Optimize Low Performers:**
 Mvaid, Medicare, Auto showing low profit & high error → Reassess or pause.
 
-**Investigate Sept–Oct Drop:**
+-**Investigate Sept–Oct Drop:**
 Acceptance & ping success rates dropped → Check lead quality or tech issues.
 
-**Run Key Campaigns in June & Jan:**
+-**Run Key Campaigns in June & Jan:**
 Peak months for profit → Align promotions accordingly.
 
-**Maintain SQL + Power BI Automation:**
+-**Maintain SQL + Power BI Automation:**
 Efficient workflow → Just update the campaign_performance table monthly.
 
-**Future Improvements:**
+-**Future Improvements:**
 Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 
 
 ## Project Structure
 
 📁 campaign-performance-1800remodel/
-├── README.md
-├── SQL/
-│   ├── campaign_analysis_and_automation.sql
+
 ├── PowerBI/
-│   └── CampaignPerformance_1800Remodel.pbix
-└── assets/
-    └── Dashboard_Screenshot.pdf
+- CampaignPerformance_1800Remodel.pbix
+├── SQL/
+- campaign_analysis_and_automation.sql
+├── assets/
+- Dashboard_Screenshot.pdf
+
+├── README.md
+
 
 
 # 👋 Hi, I’m Abu Sufian
