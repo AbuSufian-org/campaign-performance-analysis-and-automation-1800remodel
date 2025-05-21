@@ -119,8 +119,10 @@ Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 
 ├── PowerBI/
 - CampaignPerformance_1800Remodel.pbix
+
 ├── SQL/
 - campaign_analysis_and_automation.sql
+
 ├── assets/
 - Dashboard_Screenshot.pdf
 
