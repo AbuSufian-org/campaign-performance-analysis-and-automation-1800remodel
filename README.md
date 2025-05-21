@@ -4,7 +4,7 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 ---
 
-**Dashboard link:** https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D
+[Live Dashboard (View Only)](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
 
 ## Business Problem
 
