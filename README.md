@@ -4,6 +4,8 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 ---
 
+**Dashboard link:** https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D
+
 ## Business Problem
 
 > 1800Remodel.com runs multiple digital marketing campaigns, but lacks a clear system to:
@@ -117,9 +119,6 @@ Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 
 📁 campaign-performance-1800remodel/
 
-├── PowerBI/
-- CampaignPerformance_1800Remodel.pbix
-
 ├── SQL/
 - campaign_analysis_and_automation.sql
 
@@ -127,7 +126,7 @@ Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 - Dashboard_Screenshot.pdf
 
 ├── README.md
-
+- PowerBI/ Dashboard link
 
 
 # 👋 Hi, I’m Abu Sufian
