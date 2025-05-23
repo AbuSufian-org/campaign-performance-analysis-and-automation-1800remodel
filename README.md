@@ -6,7 +6,7 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 <img width="866" alt="Image" src="https://github.com/user-attachments/assets/02427935-9d5a-4be2-b3aa-aef800033885" />
 
-**[Live Dashboard (click here)]**(https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
+[**Live Dashboard (click here**)](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
 
 ## Business Problem
 
