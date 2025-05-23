@@ -4,8 +4,6 @@ This is a real-world business analytics project designed for **1800remodel.com**
 
 ---
 
-[1800 dashboard.zip](https://github.com/user-attachments/files/20403568/1800.dashboard.zip)
-
 <img width="669" alt="Image" src="https://github.com/user-attachments/assets/02b40d61-4e3f-461f-ab34-9b564eea261f" />
 
 [Live Dashboard (View Only)](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
