@@ -1,12 +1,12 @@
 # Campaign Performance Analysis And Automation Dashboard
 
-*This is a real-world business analytics project* designed for **1800remodel.com**, a US-based home remodeling company. The goal was to analyze campaign performance data, automate reporting through SQL & Power BI, and uncover actionable marketing insights.
+**This is a real-world business analytics project** designed for **1800remodel.com**, a US-based home remodeling company. The goal was to analyze campaign performance data, automate reporting through SQL & Power BI, and uncover actionable marketing insights.
 
 ---
 
 <img width="879" alt="Image" src="https://github.com/user-attachments/assets/c94228ae-8ce5-47df-bbd1-6f3e1cec6916" />
 
-[**Live Dashboard (click here**)](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
+**Power Bi Dashboard** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
 
 ## Business Problem
 
@@ -134,8 +134,8 @@ Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 # 👋 Hi, I’m Abu Sufian
 
  A freelance Data Analyst who loves solving real business problems  
-💡 Specializing in Excel, SQL Automation, Power BI Dashboards, and Data Cleaning  
-🛠️ Tools I use: SQL, Power BI, Excel, Python (Pandas)
+💡 Specializing in Excel, SQL Automation, Python, Power BI Dashboards, and Data Cleaning  
+🛠️ Tools I use: SQL, Power BI, Excel, Python
 
 ## My Top Projects
 - [campaign-performance-analysis-and-automation-1800remodel](https://github.com/AbuSufian-org/campaign-performance-analysis-and-automation-1800remodel)
