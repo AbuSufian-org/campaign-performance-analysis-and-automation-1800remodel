@@ -126,7 +126,8 @@ Add CPC, channel metrics, customer feedback, and real-time alerts in Power BI.
 
 ├── assets/
 - Dashboard_Screenshot.pdf
-
+├── Report/
+│   └── CampaignPerformance.pdf
 ├── README.md
 - PowerBI/ Dashboard link
 
